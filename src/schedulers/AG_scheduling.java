@@ -2,11 +2,6 @@ package schedulers;
 
 import java.util.*;
 
-//Kareem Hossam Mahmoud 20205002 (NSC1)
-//Donia Waleed Gamal Hagag 20205010 (NSC1)
-//Emad Eldin Ali Hany 20205004 (NSC1)
-//Ahmed Mohamed Abd Elaziz 20205014 (NSC2)
-
 public class AG_scheduling {
 	int start, total_time, no_processes, CS_time;
 	float avg_wt = 0, avg_ta = 0;
