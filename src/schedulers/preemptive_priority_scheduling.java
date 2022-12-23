@@ -2,11 +2,6 @@ package schedulers;
 
 import java.util.Vector;
 
-//Kareem Hossam Mahmoud 20205002 (NSC1)
-//Donia Waleed Gamal Hagag 20205010 (NSC1)
-//Emad Eldin Ali Hany 20205004 (NSC1)
-//Ahmed Mohamed Abd Elaziz 20205014 (NSC2)
-
 public class preemptive_priority_scheduling {
 	int start = 0, total_time = 0, no_processes, CS_time, Aging_Value;
 	float avg_wt = 0, avg_ta = 0;
